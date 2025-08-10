@@ -10,7 +10,7 @@
 ### 「 S T A T U S // L O A D O U T 」
 
 <p align="left"> 
-  Hai, aku <strong>[Nama Kamu / Alias-mu]</strong>. Aku adalah seorang petualang digital yang bersemayam di jagat kode. Saat ini aku sedang dalam misi untuk menguasai seni pengembangan perangkat lunak dan menciptakan solusi yang epik.
+  Hai, aku <strong>[Shiro/Shirotachi]</strong>. Aku adalah seorang petualang digital yang bersemayam di jagat kode. Saat ini aku sedang dalam misi untuk menguasai seni pengembangan perangkat lunak dan menciptakan solusi yang epik.
 </p>
 
 - 👤 **Alias:** `[Nama Kamu / Alias Keren]`
@@ -76,8 +76,8 @@ Ini adalah beberapa teknik dan jurus yang telah aku kuasai dalam perjalananku.
 Analisis data dari Scouter menunjukkan level kekuatanku saat ini.
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GANTI-DENGAN-USERNAME-KAMU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI-DENGAN-USERNAME-KAMU&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shirotachii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirotachii&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
