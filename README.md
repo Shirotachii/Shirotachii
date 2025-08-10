@@ -2,7 +2,7 @@
 
 I'm an **Anime**
 
- 🌱 I’m currently learning **Magic Item** 
+ 🪄 I’m currently learning **Magic Item** 🔮
 
 ![Shirotachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shirotachii&show_icons=true&theme=radical)
 
