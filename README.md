@@ -1,6 +1,6 @@
 ### Hi there, I'm Shiro👋
 
-I'm an isekai people 
+I'm an **Anime**
 
  🌱 I’m currently learning **Magic Item** 
 
